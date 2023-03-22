@@ -1,4 +1,4 @@
-## Мої перші кроки разом з GitHub
+## Робота з bootstrap
 
 - Мій сайтик [зазирніть:)](https://AlbiDre.github.io/AlbiDreWebsite/)
 - Древич Альбіна Григорівна , ІК-202
